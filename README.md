@@ -1,7 +1,7 @@
 # Neuron
 A Local Area Network Communication System.
 
-**_Developer_**: [CyberMajeed](https://github.com/cybermajeed). 
+**_Developer_**: @cybermajeed. 
 <br>
 **_Initial Development_**: 01/06/2022. 
 <br>
