@@ -8,7 +8,7 @@ A Local Area Network Communication System.
 **_langauges Used:_** `PHP` `SQL` `HTML` `JavaScript` `CSS`.
 <br>
 **_Project Progress:_** Under Development.
-### How to run the project:
+### How to run this project:
     -install PHP
     -enable mysqli in php.ini
     -Run SQL/Database.sql
