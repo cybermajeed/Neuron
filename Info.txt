@@ -1,1 +1,8 @@
-group: server/class
+Group:
+    Server() {
+       Example > 'ServerName[f13d2e /*server code*/]'; //random. auto generated code
+       
+       Port(int[size->4]) {
+         Example > 'ServerName:3000'; //set by admin
+       }
+    }
